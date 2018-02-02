@@ -1,0 +1,26 @@
+
+main{
+	
+	margin-right: 200px;
+	margin-left: 200px;
+	
+}
+
+body{
+	color: white;
+	background-color: black;
+}
+
+h3{
+	color: green;
+	background-color: black;
+}
+
+#highlight{
+	color: black;
+	background-color: yellow;
+}
+
+.center{
+	text-align: center;
+}
